@@ -1,2 +1,3 @@
-# CreditCard_Fraud_Detection
-Credit Card Fraud Detection in R: Implement anomaly detection for enhanced security with concise R code, covering preprocessing, model implementation, and evaluation. Elevate your fraud detection capabilities effortlessly.
+# Credit Card Fraud Detection in R
+
+This repository provides a streamlined implementation of anomaly detection in R for efficient and reliable credit card fraud detection. Explore the concise codebase to enhance your understanding of preprocessing, model deployment, and evaluation, ensuring robust security for financial transactions.
